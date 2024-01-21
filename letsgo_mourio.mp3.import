@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/letsgo_mourio.mp3-ef6e013cd4f865a0858db037adc5477b.mp3str"
+
+[deps]
+
+source_file="res://letsgo_mourio.mp3"
+dest_files=[ "res://.import/letsgo_mourio.mp3-ef6e013cd4f865a0858db037adc5477b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
